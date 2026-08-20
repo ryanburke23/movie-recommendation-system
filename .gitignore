@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw datasets
+data/raw/
+
+# macOS
+.DS_Store
+
+# Keep processed data out for now (we can change this later if needed)
+data/processed/
