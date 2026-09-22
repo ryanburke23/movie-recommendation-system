@@ -19,6 +19,20 @@ This project compares several approaches:
 
 The final system uses learned latent representations of users and movies to predict ratings and generate personalized Top-N recommendations.
 
+## Project Highlights
+
+Dataset Rating Distribution
+
+![Rating Distribution](results/figures/rating_distribution.png)
+
+Hyperparameter Selection
+
+![Latent Factor Selection](results/figures/latent_factors.png)
+
+Final Model Performance
+
+![Model Comparison](results/figures/model_comparison.png)
+
 ## Dataset
 
 The project uses the [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/100k/).
